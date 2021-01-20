@@ -1,7 +1,7 @@
 import UIKit
 
 extension RazeCore {
-    class Color {
+    public class Color {
         /// Allows you to convert a 6 digit hexadecimal into string into a UIColor Instance
         /// - Warning: The "#" symbol is stripped from the beginnning of the string submitted here.
         /// - Parameters:
